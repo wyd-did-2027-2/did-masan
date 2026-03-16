@@ -11,8 +11,12 @@ interface PageProps {
 }
 
 export async function generateStaticParams() {
-  const ids = await getAllNoticeIds();
-  return ids.map((id) => ({ id }));
+  const [krIds, enIds] = await Promise.all([
+    getAllNoticeIds("kr"),
+    getAllNoticeIds("en"),
+  ]);
+  const allIds = [...new Set([...krIds, ...enIds])];
+  return allIds.map((id) => ({ id }));
 }
 
 export default async function NoticePage({ params }: PageProps) {
