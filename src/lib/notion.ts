@@ -180,7 +180,7 @@ export async function getNoticeData(locale: Locale = "kr"): Promise<NoticeItem[]
     }
 
     const pages = await queryDatabaseWithPagination(databaseId, [
-      { property: "날짜", direction: "ascending" },
+      { property: "날짜", direction: "descending" },
     ]);
 
     return pages.map((page) => {
@@ -326,7 +326,7 @@ export async function getYoutubeData(locale: Locale = "kr"): Promise<YoutubeItem
     }
 
     const pages = await queryDatabaseWithPagination(databaseId, [
-      { property: "날짜", direction: "ascending" },
+      { property: "날짜", direction: "descending" },
     ]);
 
     return pages.map((page) => {
