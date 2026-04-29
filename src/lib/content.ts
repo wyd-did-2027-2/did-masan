@@ -20,7 +20,7 @@ export const content = {
       ogLocale: "ko_KR",
     },
     header: {
-      logoAlt: "wyd did 마산 로고",
+      logoAlt: "wyd did 마산",
       nav: {
         home: "홈",
         calendar: "캘린더",
@@ -31,7 +31,7 @@ export const content = {
       },
     },
     footer: {
-      logoAlt: "wyd did 마산 로고",
+      logoAlt: "wyd did 마산",
       address:
         "경상남도 창원시 마산합포구 진전면 죽헌로 72 WYD 마산 교구대회 사무국",
       email: "qna.wyd.doc.icn@gmail.com",
@@ -78,7 +78,7 @@ export const content = {
       ogLocale: "en_US",
     },
     header: {
-      logoAlt: "wyd did Masan logo",
+      logoAlt: "wyd did Masan",
       nav: {
         home: "Home",
         calendar: "Calendar",
@@ -89,7 +89,7 @@ export const content = {
       },
     },
     footer: {
-      logoAlt: "wyd did Masan logo",
+      logoAlt: "wyd did Masan",
       address:
         "72, Jukheol-ro, Jinjeon-myeon, Masanhappo-gu, Changwon-si, Gyeongsangnam-do, WYD Masan Diocesan Committee",
       email: "qna.wyd.doc.icn@gmail.com",
