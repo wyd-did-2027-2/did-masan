@@ -35,9 +35,9 @@ export const content = {
     footer: {
       logoAlt: "wyd did 마산",
       address:
-        "경상남도 창원시 마산합포구 진전면 죽헌로 72 WYD 마산 교구대회 사무국",
+        "경상남도 창원시 마산합포구 진전면 죽헌로 72 천주교 마산교구청",
       email: "qna.wyd.doc.icn@gmail.com",
-      phone: "032-765-6997",
+      phone: "055-249-7000",
       hours: "운영시간: 10:00 ~ 18:00",
       copyright: "Copyright ⓒ 마산교구 All rights reserved",
     },
@@ -95,9 +95,9 @@ export const content = {
     footer: {
       logoAlt: "wyd did Masan",
       address:
-        "72, Jukheol-ro, Jinjeon-myeon, Masanhappo-gu, Changwon-si, Gyeongsangnam-do, WYD Masan Diocesan Committee",
+        "72, Jukheon-ro, Jinjeon-myeon, Masanhappo-gu, Changwon-si, Gyeongsangnam-do, Catholic Diocese of Masan",
       email: "qna.wyd.doc.icn@gmail.com",
-      phone: "032-765-6997",
+      phone: "055-249-7000",
       hours: "Hours: 10:00 ~ 18:00",
       copyright: "Copyright ⓒ Diocese of Masan All rights reserved",
     },
