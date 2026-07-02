@@ -37,7 +37,7 @@ export const content = {
       address:
         "경상남도 창원시 마산합포구 진전면 죽헌로 72 천주교 마산교구청",
       email: "qna.wyd.doc.icn@gmail.com",
-      phone: "055-249-7000",
+      phone: "055-249-7116",
       hours: "운영시간: 10:00 ~ 18:00",
       copyright: "Copyright ⓒ 마산교구 All rights reserved",
     },
@@ -97,7 +97,7 @@ export const content = {
       address:
         "72, Jukheon-ro, Jinjeon-myeon, Masanhappo-gu, Changwon-si, Gyeongsangnam-do, Catholic Diocese of Masan",
       email: "qna.wyd.doc.icn@gmail.com",
-      phone: "055-249-7000",
+      phone: "055-249-7116",
       hours: "Hours: 10:00 ~ 18:00",
       copyright: "Copyright ⓒ Diocese of Masan All rights reserved",
     },
